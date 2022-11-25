@@ -18,8 +18,8 @@
 ### Getting a dog
 
 
-- [ ] list breeds
-- [ ] prioritise breed
+- [ ] list breeds 
+- [ ] prioritise breeds - From an expert - "Picking a dog is tricky just ensure you match energy levels..."
 - [ ] meet breeders
 - [ ] research puppy plan
 - [ ] build website for all of this with kids...
