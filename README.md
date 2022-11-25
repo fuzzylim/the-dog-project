@@ -10,7 +10,13 @@
 
 ## Steps
 
+### Research
+
+- [ ] Read books
+    - [ ] [Dog Training For Kids - Vanessa Estrada Marin](https://www.amazon.com.au/Dog-Training-Kids-Furry-Friend/dp/0593196570)
+
 ### Getting a dog
+
 
 - [ ] list breeds
 - [ ] prioritise breed
